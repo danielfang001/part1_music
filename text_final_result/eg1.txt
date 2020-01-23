@@ -1,0 +1,4 @@
+M:4/4 
+L:1/4 
+K:G 
+d|"G"GB d2|"Am"e/2ee/2 cA|"D7"AB (3c/2d/2c/2B/2c/2|"G"d3/2d/2 "D7"BG|"G"GB d2| "C"e2 "F"A3/2B/2|"D"c/2d/2c/2B/2 "Em"cA|"Am"G/2F/2E/2D/2 "D7"FD|"G"G2 G:| d|"C"e3/2e/2 ed|"C"e"d"f "e"g2|"C/e"g"d"f "c"e"b"d|"G/b"dc Bc|"C"e/2f/2e/2d/2 c/2B/2A|\ "Am"cA "D7"BB|"G"G3/2F/2 "C"GE|"D"F/2G/2A/2B/2 cB/2c/2|"G"dB g3/2f/2| "C"ed "C"ce|"G"dg "C"ec|"G"B/2d/2B/2G/2 "D7"A/2c/2A/2F/2|"G"G3:| M:4/4 L:1/4 K:D "D"D/2E/2F/2A/2 BA/2B/2|dc/2d/2 B/2A/2F/2E/2|"D"DD/2E/2 F/2A/2B/2A/2|\ "A7"c3/2B/2 AG
